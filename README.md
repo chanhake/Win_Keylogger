@@ -1,5 +1,5 @@
 # Win_Keylogger
-A simple Windows Keylogger written in C to evade AV detection and establish persistence
+A simple Windows Keylogger written in C to evade AV detection and establish persistence.
 
 To use, change address and port to desired host machine. 
 
